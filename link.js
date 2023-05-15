@@ -1,1 +1,1 @@
-const offerLink = "https://v.ht/DFaAg";
+const offerLink = "https://v.hthttps://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqa1cwdHBpMC1ubmhhaG1UaDJWbU9HdmJwbVFWZ3xBQ3Jtc0ttQ3QyZTdXMmhCdFdPdERiUFRnOERWakJ6RWVua2owSzVBcVd3bUJfUDBVcXhtdnp5Vzh6bmVvcWEtX1NOQndiVWN5YTYzcjk3bmc0NjA2UGllVGNpVnQ3WjRQdm5YOV9WbHZvUWFfamJGSnpsSFpBbw&q=https%3A%2F%2Fxblroo.datingllfe.net%2F%3Futm_source%3Dda57dc555e50572d%26s1%3D187579%26s2%3D1785913%26j1%3D1&html_redirect=1/DFaAg";
